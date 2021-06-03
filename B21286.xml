@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Divine poems upon the inexhaustable goodness and clemency of Almighty God</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21286</idno><idno type="EEBO-CITATION">19728556</idno>
+  <idno type="VID">205639</idno>
+  <idno type="EEBO-PROQUEST">2248554729</idno>
+  
+            <idno type="STC">Wing D1730</idno>
+            <idno type="OCLC">19728556</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Divine poems upon the inexhaustable goodness and clemency of Almighty God</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In three columns.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian poetry, English --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:205639:1"/>
+            <head>DIVINE POEMS Upon the Inexhaustable Goodness and Clemency of Almighty GOD.</head>
+            <lg n="1">
+               <l>1. O Lord my God whose Scepter rules the Earth,</l>
+               <l>Distil thy fear into my Heart,</l>
+               <l>That being fill'd with holy Mirth,</l>
+               <l>I may proclaim how good thou art;</l>
+               <l>Open my Lips that I may sing</l>
+               <l>Sweet Praises to my God my King.</l>
+            </lg>
+            <lg n="2">
+               <l>2. Just Judg of Men in whom I trust,</l>
+               <l>Convert the Wicked, save the Just;</l>
+               <l>Then shall the wicked fear thy Name,</l>
+               <l>And we will sing and love the same:</l>
+               <l>And if thy Wrath begin to flame,</l>
+               <l>We'll seek protection in thy Name.</l>
+            </lg>
+            <lg n="3">
+               <l>3. As Fish and Birds to Men subjected be,</l>
+               <l>So Lord subject Mens Hearts to thee.</l>
+               <l>Lord make us hear thy blessed Voice,</l>
+               <l>That we may see and eke Rejoice:</l>
+               <l>Oh let thy gracious Trial show</l>
+               <l>That I am just, or make me so.</l>
+            </lg>
+            <lg n="4">
+               <l>4. Lord keep and teach me in the Right,</l>
+               <l>That I may live in thy bless'd Sight.</l>
+               <l>For in thy sight all Pleasures be,</l>
+               <l>Let not my Soul to Darkness flee:</l>
+               <l>With peaceful Conquest crown my Days,</l>
+               <l>Then shall I crown thy Power with Praise.</l>
+            </lg>
+            <lg n="5">
+               <l>5. Cleanse all My Sins, clear every Spot,</l>
+               <l>Both open, secret, and Forgot.</l>
+               <l>O God of Mercy, full of sweet Compassion,</l>
+               <l>Ravish my Soul with thy Salvation;</l>
+               <l>And I will spend my joyful Days</l>
+               <l>In Psalms of Thanks and Hymns of Praise.</l>
+            </lg>
+            <lg n="6">
+               <l>6. O <hi>Jesus</hi> thou who art no less</l>
+               <l>Than Mans Comfort, that was Comfortless;</l>
+               <l>Opon my Heart oppress'd with Sin,</l>
+               <l>And come thou King of Glory in;</l>
+               <l>Then shall my joyful Tongue express</l>
+               <l>Thy Praises and my Thankfulness.</l>
+            </lg>
+            <lg n="7">
+               <l>7. Lord if thou'lt lengthen out my Days,</l>
+               <l>Their task shall be to extol thy Praise,</l>
+               <l>And yield to that sweet Heavenly Voice,</l>
+               <l>Whereat tho others startle, i'll Rejoice.</l>
+               <l>For thou hast set the remnant of my Days</l>
+               <l>To see thy Power, and give thee Praise.</l>
+            </lg>
+            <lg n="8">
+               <l>8. Lord let the bright shield of thy Face</l>
+               <l>Season my Heart with thy sweet Grace:</l>
+               <l>O let thy mercy make me Just,</l>
+               <l>For in thee is my fear and trust?</l>
+               <l>Humble the Proud in their pretence.</l>
+               <l>And let thy Wing be my Defence.</l>
+            </lg>
+            <lg n="9">
+               <l>9. Be thou my God in my Relief,</l>
+               <l>And I'll be humble with my Grief:</l>
+               <l>And let my Life give a Relation</l>
+               <l>Of thy due Praise, and my Salvation.</l>
+               <l>Receive my Soul, whose joyful Knee</l>
+               <l>Ne're Bow'd to any God but Thee.</l>
+            </lg>
+            <lg n="10">
+               <l>10. Instruct my Heart with Love and Duty,</l>
+               <l>And then take pleasure in its Beauty.</l>
+               <l>Lord let thy Mercy still inure</l>
+               <l>My Breast to love the thing that's Pure.</l>
+               <l>Lord keep my Heart in Thee Unshaken;</l>
+               <l>For thou forsakest not, till Forsaken.</l>
+            </lg>
+            <lg n="11">
+               <l>11. Those that be Wealthy and not Wise,</l>
+               <l>They are compar'd to th' Beast that Dies.</l>
+               <l>Be gracious Lord unto my Grief,</l>
+               <l>And send me plentiful Relief;</l>
+               <l>Then shall my Soul delight always</l>
+               <l>Thy bless'd and holy Name to Praise.</l>
+            </lg>
+            <lg n="12">
+               <l>12. Lord let thy goodness not detest</l>
+               <l>The Petitions of a broken Breast.</l>
+               <l>Protect all those that strive to sing</l>
+               <l>Thy Praises with a cheerful Tongue;</l>
+               <l>And I will always spend my Days</l>
+               <l>In Hymns of Thanks, and Songs of Praise.</l>
+            </lg>
+            <lg n="13">
+               <l>13. Let Comforts with our Years increase,</l>
+               <l>That we may Laud thy Name in Peace:</l>
+               <l>Showre down thy Spirit into our Breast,</l>
+               <l>And give us Grace to beg thy rest;</l>
+               <l>That from our Faith rich Works may spring,</l>
+               <l>And we with Joy may Hout and Sing.</l>
+            </lg>
+            <lg n="14">
+               <l>14. That we being Tutor'd and kept under,</l>
+               <l>May fear with Love, and Love with Wonder:</l>
+               <l>Then shall we see thee as thou art</l>
+               <l>In power Divine, and Glory Great.</l>
+               <l>So I most glad in Heart shall Sing</l>
+               <l>Thy ways and Praise my God and King.</l>
+            </lg>
+            <lg n="15">
+               <l>15. All Praises Honour Glory be</l>
+               <l>Ascrid'd alone great Prince to thee;</l>
+               <l>Who art their help and strong Defence,</l>
+               <l>That seek Thee, O great Omnipotence.</l>
+               <l>To thee be Honour, Glory and Praise given,</l>
+               <l>By Saints on Earth, and Kings in Heaven.</l>
+            </lg>
+            <lg n="16">
+               <l>16. Let thy free Grace inflame our Hearts,</l>
+               <l>And we will sing thy Praise in Parts.</l>
+               <l>Conduct and feed us as thy Flock,</l>
+               <l>And give us Hony from thy Rock.</l>
+               <l>Lord teach my Eye, my Will, my Hand</l>
+               <l>To be subject to thy Command.</l>
+            </lg>
+            <lg n="17">
+               <l>17. O fill my Soul with holy Fire,</l>
+               <l>Then shall my Thoughts to thee Aspire;</l>
+               <l>That Righteousness and Truth may meet,</l>
+               <l>And lighten our Hearts, and guide our Feet.</l>
+               <l>Be thou my way, my Truth my Light,</l>
+               <l>So shall I Live and Die Upright.</l>
+            </lg>
+            <lg n="18">
+               <l>18. Oh let the remnant of my Days</l>
+               <l>Be crown'd with Peace, and thou with Praise:</l>
+               <l>Of all Delights I wish no other</l>
+               <l>Than to injoy thy Heavenly Treasure.</l>
+               <l>O Eternal God before whose Blessed Eyes</l>
+               <l>One Day is as a Thousand Years.</l>
+            </lg>
+            <lg n="19">
+               <l>19. O Lord within my heart fix thou thy Throne</l>
+               <l>For to thee 'tis I make my Moan:</l>
+               <l>Plant Holiness within my Breast,</l>
+               <l>O Lord my Strength, O God my Rest;</l>
+               <l>Confirm my strength, and let thy Hand</l>
+               <l>Conduct me to the Promis'd Land.</l>
+            </lg>
+            <lg n="20">
+               <l>20. Just God of Glory cast thine Eye</l>
+               <l>Upon my poor Afflicted Breast,</l>
+               <l>O send me help and hear my Cry,</l>
+               <l>And let thy Comforts be my Rest;</l>
+               <l>Repel my Foes, and set me free,</l>
+               <l>That have no hope, nor help but thee.</l>
+            </lg>
+            <lg n="21">
+               <l>21. O thou within whose tender Breast</l>
+               <l>Full streams of sweet Compassion flow,</l>
+               <l>Whose Mercy cannot be express'd,</l>
+               <l>By Souls above, nor Saints below,</l>
+               <l>My Strength shall Praise, my Heart shall Bless</l>
+               <l>That Goodness Tongue cannot Express.</l>
+            </lg>
+            <lg n="22">
+               <l>22. Except that Praise my Soul can give,</l>
+               <l>And it shall Praise the while I Live:</l>
+               <l>Instruct my Heart to keep thy Laws,</l>
+               <l>And I will Praise thee in my ways.</l>
+               <l>O Lord thou art my King and Priest,</l>
+               <l>Do thou command me as thou list.</l>
+            </lg>
+            <lg n="23">
+               <l>23. Lord should'st thou punish every Sin,</l>
+               <l>Or strike us off as we offend,</l>
+               <l>How quickly would our Sorrows begin,</l>
+               <l>How soon this sinful World would end:</l>
+               <l>But Lord thy tender Mercy stand</l>
+               <l>Betwixt the Gap, and hold thy Hand.</l>
+            </lg>
+            <lg n="24">
+               <l>24. Lord teach my humble Eye the art</l>
+               <l>To see aright, and fear thy Smart.</l>
+               <l>Lord let thy Wonders and thy Ways</l>
+               <l>Inflame my Heart, my Tongue and Pen,</l>
+               <l>That Pen and Tongue and Heart may Praise</l>
+               <l>Thy ways before the Sons of Men.</l>
+            </lg>
+            <lg n="25">
+               <l>25. Look where I list, high, low, or under,</l>
+               <l>I see to learn, and learn to Wonder:</l>
+               <l>And as I Wonder, let me do,</l>
+               <l>That I may Praise thee in private, and Publick too.</l>
+               <l>Set thou thy fear in all my ways,</l>
+               <l>To make me wise to give thee Praise.</l>
+            </lg>
+            <lg n="26">
+               <l>26. Lord let thy Mercies and thy Might</l>
+               <l>Fulfil my Darkness with thy Light.</l>
+               <l>O Lord my God, who only art</l>
+               <l>The strength and Musick of my Heart;</l>
+               <l>Thou hast redeem'd my Soul from <hi>Hell,</hi>
+               </l>
+               <l>And so provided that it may be Well.</l>
+            </lg>
+            <lg n="27">
+               <l>27. Do Good to good Men, and increase.</l>
+               <l>Their number plenty and their Peace;</l>
+               <l>Then let that righteous Arm of thine</l>
+               <l>Convert and cure thy Foes and Mine:</l>
+               <l>To thee perpetually Praise be given,</l>
+               <l>By Saints on Earth, and Souls in Heaven.</l>
+            </lg>
+            <lg n="28">
+               <l>28. Let all my Foes be trodden down,</l>
+               <l>And let thy Glory be my Crown.</l>
+               <l>To thee, O God, my Heart shall flee,</l>
+               <l>For my Soul expects no help but thee.</l>
+               <l>For Mercy harbours in thine Eye,</l>
+               <l>To thee therefore alone I Crie.</l>
+            </lg>
+            <lg n="29">
+               <l>29. United Souls of Saints appear</l>
+               <l>The sweetest Musick in thy Ear.</l>
+               <l>Let thy bright Lustre drive away</l>
+               <l>All Darkness from's without delay,</l>
+               <l>Let all our Thoughts unite our Minds,</l>
+               <l>For unto thee we are Confin'd.</l>
+            </lg>
+            <lg n="30">
+               <l>30. Let every one wonder that we see</l>
+               <l>In Heaven or Earth, or in the Sea,</l>
+               <l>Advance some Honour Lord to thee,</l>
+               <l>That do'st and wilt do graciously</l>
+               <l>Tho' others Worship Wood and Stone,</l>
+               <l>My Soul shall Bless the Lord alone.</l>
+            </lg>
+            <lg n="31">
+               <l>31. Thy favour through the World Extends,</l>
+               <l>And of thy Mercy there's no end.</l>
+               <l>O Lord where e'er I cast my Eye</l>
+               <l>I see thy Goodness, and I Spie</l>
+               <l>Perpetual pledges of thy Love,</l>
+               <l>Which makes me Worship thee Above.</l>
+            </lg>
+            <lg n="32">
+               <l>32. O Lord thy Praise shall be my chief Delight,</l>
+               <l>While Tongue can speak, or Hand can Write.</l>
+               <l>Let thy bright Luster now appear,</l>
+               <l>On thy Terrestial Hemisphear.</l>
+               <l>O God how fair these Fields appear</l>
+               <l>Where such rich Pearls are Buried there.</l>
+            </lg>
+            <lg n="33">
+               <l>33. O Lord who mad'st me and do'st prie</l>
+               <l>Into the secrets of all Hearts,</l>
+               <l>From whose all seeing presence none can flie,</l>
+               <l>Nor hide them there, but where thou art;</l>
+               <l>Inform my Soul, Inflame my Breast,</l>
+               <l>And lead me to eternal Rest.</l>
+            </lg>
+            <lg n="34">
+               <l>34. O Lord subdue my Flesh, and then my Spirit</l>
+               <l>Shall Sing the praises of thy Merit;</l>
+               <l>Tho' others seek to do me wrong,</l>
+               <l>Make thou, O God, my Courage strong;</l>
+               <l>Bless us and them, that they and we</l>
+               <l>May Bless and Praise thy Name Eternally</l>
+            </lg>
+            <lg n="35">
+               <l>35. O Lord thy Mercies fail me never,</l>
+               <l>When once thou Lov'st thou Lov'st for ever.</l>
+               <l>O let thy Mercies plead my Case,</l>
+               <l>For in thy Goodness is my Release:</l>
+               <l>Those that oppress my Soul Oppose,</l>
+               <l>For I am thy Servant, they thy Foes.</l>
+            </lg>
+            <lg n="36">
+               <l>36. O Lord what help can I expect,</l>
+               <l>That merit, Vengeance to my Sect;</l>
+               <l>How great so ever my Sins have been,</l>
+               <l>Thy Mercys greater than my Sin:</l>
+               <l>How more than others are our Days</l>
+               <l>Extreamly bound to give thee Praise.</l>
+            </lg>
+            <lg n="37">
+               <l>37. Great God whose Goodness does increase</l>
+               <l>And feedest us with the flower of Peace</l>
+               <l>To whom all Praises do belong,</l>
+               <l>Teach us to sing an Heavenly Song.</l>
+               <l>O give me Grace to understand</l>
+               <l>My Life is always in thy Hand.</l>
+            </lg>
+            <lg n="38">
+               <l>38. O Lord bridle my too headstrong Will,</l>
+               <l>That I may always take delight</l>
+               <l>In doing Good, and shuning Ill,</l>
+               <l>So shall my Heart be void of Spight,</l>
+               <l>And with a Halelujah Song</l>
+               <l>My Tongue shall praise thee all along.</l>
+            </lg>
+            <lg n="39">
+               <l>39. Lord let the Morning of my Grief</l>
+               <l>Find out a Night of lasting Pleasure,</l>
+               <l>Thou art the God of my Relief,</l>
+               <l>In Poverty thou art my Treasure;</l>
+               <l>I care not Lord how poor I be</l>
+               <l>Unto the World, if Rich to thee.</l>
+            </lg>
+            <lg n="40">
+               <l>40. Great King of Peace be pleas'd to send</l>
+               <l>Thy Peace to our Ungodly Land:</l>
+               <l>Tho' we are bad, teach us to mend,</l>
+               <l>And let not Ruine be our End:</l>
+               <l>Then shall our lavish Lips deliver</l>
+               <l>Our thanks of Peace to our Peace giver.</l>
+            </lg>
+            <lg n="41">
+               <l>41. Lord let the praise of thy great Power</l>
+               <l>Advance the Power of thy Praise,</l>
+               <l>Let every Day, let every Hour</l>
+               <l>Praise thee till Hours fail and Days.</l>
+               <l>To thee perpetual Praise be given,</l>
+               <l>By Sints on Earth, and Souls in Heaven.</l>
+            </lg>
+            <lg n="42">
+               <l>42. Then take me hence great God to thee,</l>
+               <l>That I may sing Eternally.</l>
+               <l>To thee all Honour, Praise and Merit.</l>
+               <l>Father, Son, and Holy Spirit.</l>
+            </lg>
+            <p>Licensed <hi>R. M.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue Ball</hi> in <hi>Thames-street,</hi> near <hi>Baynards-Castle,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
